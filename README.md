@@ -74,7 +74,7 @@
     <br />
     <strong>Gina Gallivan</strong>
     <br />
-    Email: <strong>support@example.com</strong>
+    Email: <strong>matt@echosignalmedia.com</strong>
   </p>
 
   <h2>Changes to This Policy</h2>
